@@ -25,7 +25,7 @@ This experiment. Always the same, slightly longer URL-ish reference to an issue 
 - local repo issue reference, flavour C:  *URK*
 - other repo's issue ref, flavour A:  diverse_scattered_borkedness#1
 - other repo's issue ref, flavour B:  GerHobbelt/diverse_scattered_borkedness#1
-- other *forked* repo's issue ref, flavour B':  MrBonkers/W#1
+- ✔️ other *forked* repo's issue ref, flavour B':  MrBonkers/W#1
 - other *forked* repo's issue ref, case-insensitive=_mistake?_, flavour B":  mrbonkers/W#1
 - other *forked* repo's issue ref, flavour B3: using old name of original repo, before we forked:  MrBonkers/diverse_scattered_borkedness#1
 - other repo's issue ref, flavour C:  W#1
