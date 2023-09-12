@@ -10,5 +10,5 @@ Tracking bugs, caveats, reminders and ramblings in and of my public clones/forks
 - local repo issue reference, flavour A:  URK
 - other repo's issue ref, flavour A:  diverse_scattered_borkedness#1
 - other repo's issue ref, flavour B:  Gerhobbelt/diverse_scattered_borkedness#1
-- other repo's issue ref, flavour C:  https://github.com/GerHobbelt/diverse_scattered_borkedness/issues/1
+- other repo's issue ref, flavour C (copy&pasted full `https://` link):  https://github.com/GerHobbelt/diverse_scattered_borkedness/issues/1
 - 
