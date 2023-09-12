@@ -15,4 +15,4 @@ Tracking bugs, caveats, reminders and ramblings in and of my public clones/forks
 - other repo's issue ref, flavour E (copy&pasted *OLD* full `https://` link):  https://github.com/GerHobbelt/diverse_scattered_borkedness/issues/1
 - other repo's issue ref, flavour E (copy&pasted *NEW* full `https://` link):  https://github.com/GerHobbelt/W/issues/1
 
-Conclusion: [GitHub docs: Issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests) may *say* `#1` and `GH-1` SHOULD work, but they DON'T in the `README.md` file. ... 🤔 Sure enough, those work in any *commit*, though?
+Conclusion: [GitHub docs: Issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests) may *say* `#1` and `GH-1` SHOULD work, but they DON'T in the `README.md` file. ... 🤔 Sure enough, those work in any *commit*, though? ... 🥳 [*yup*!](https://github.com/MrBonkers/W/commit/13117d92be205426482d0e2bf7db135cfbc7fc82)
