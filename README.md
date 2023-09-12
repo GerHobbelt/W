@@ -32,7 +32,7 @@ This experiment. Always the same, slightly longer URL-ish reference to an issue 
 - 💣💥 other repo's issue ref, flavour D:  GerHobbelt/W#1
 - ✔️🚀 other repo's issue ref, flavour E (copy&pasted *OLD* full `https://` link):  https://github.com/GerHobbelt/diverse_scattered_borkedness/issues/1
 - ✔️🚀 other repo's issue ref, flavour E (copy&pasted *NEW* full `https://` link):  https://github.com/GerHobbelt/W/issues/1
-- 💣💥 other repo's issue ref, flavour E' (copy&pasted *OLD* *forked* full `https://` link):  https://github.com/MrBonkers/diverse_scattered_borkedness/issues/1
+- 🛑👻 other repo's issue ref, flavour E' (copy&pasted *OLD* *forked* full `https://` link):  https://github.com/MrBonkers/diverse_scattered_borkedness/issues/1
 - ✔️🚀 other repo's issue ref, flavour F' (copy&pasted *NEW* *forked* full `https://` link):  https://github.com/MrBonkers/W/issues/1
 
 Conclusion: [GitHub docs: Issues and pull requests](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls#issues-and-pull-requests) may *say* `#1` and `GH-1` SHOULD work, but they DON'T in the `README.md` file. 
