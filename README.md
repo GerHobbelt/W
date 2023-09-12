@@ -7,7 +7,7 @@ Tracking bugs, caveats, reminders and ramblings in and of my public clones/forks
 
 ## The problem
 
-*!@#$%^*🐖☠️🦨: lost this entire chapter's blurb of text thanks to fat fingering the browser tabs just now. *Bugger it, millenium hand and shrimp!*
+> *!@#$%^*🐖☠️🦨: lost this entire chapter's blurb of text thanks to fat fingering the browser tabs just now. *Bugger it, millenium hand and shrimp!*
 
 GitHub + PICNIC: github restarts *independent* numbering for issues filed in *forks*. ESensible from a GitHub-technical perspective but workflow-wise *for me it's 🤮*. 
 
